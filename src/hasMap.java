@@ -33,7 +33,7 @@ public class hasMap {
         int sl = hm.size();
         System.out.println(sl);
 
-        // duyệt hm
+        // duyệt hmap
         for (Integer key : hm.keySet()){
             String vl = hm.get(key);
             System.out.println(key + " :" + vl);

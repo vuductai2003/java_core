@@ -32,7 +32,7 @@ public class bt_hasmap {
         } else if (!user.get(usename).equals(pass)) {
             System.out.println("sai mật khẩu");
         }else {
-            System.out.println("thành công");
+            System.out.println("thành công"); // thành quả
         }
     }
 }
