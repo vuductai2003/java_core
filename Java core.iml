@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://D:/jdbc/sqljdbc_11.2/enu/mssql-jdbc-11.2.3.jre18.jar!/" />
+          <root url="jar://D:/App_data/sqljdbc_11.2.3.0_enu/sqljdbc_11.2/enu/mssql-jdbc-11.2.3.jre18.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
